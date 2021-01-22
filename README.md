@@ -1,17 +1,19 @@
-# SHU每日两报 iOS快捷指令 自动早晚报
+# SHU每日两报 快捷指令 自动早晚报
 
-本快捷指令(Shortcuts)可在iOS上实现自动登录并打卡，可配合iOS13.1以上“自动化”实现自动早晚报
+本快捷指令(Shortcuts)可在iOS, iPadOS, watchOS上实现自动登录并打卡，可配合新版本中“自动化”实现自动早晚报
 
- - 在校版：[https://www.icloud.com/shortcuts/d2b9e1e065f74c16b5e25328bf660c55](https://www.icloud.com/shortcuts/d2b9e1e065f74c16b5e25328bf660c55)
+更新时间：20210122
 
- - 离校版：[https://www.icloud.com/shortcuts/77f4b8a3fd82459f8cd728122452a2f6](https://www.icloud.com/shortcuts/77f4b8a3fd82459f8cd728122452a2f6)
+ - 在校版：[https://www.icloud.com/shortcuts/7c9bf4e552ea48d18716e04a3ffd202e](https://www.icloud.com/shortcuts/7c9bf4e552ea48d18716e04a3ffd202e)
+
+ - 离校版：[https://www.icloud.com/shortcuts/7ea3905c8f3a43ca854a9a85a1b55d67](https://www.icloud.com/shortcuts/7ea3905c8f3a43ca854a9a85a1b55d67)
 
 
 ## 用法
 
 1. 在`App Store`中下载[快捷指令](https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id1462947752)
 
-2. 打开对应版本的链接并选择“获取捷径”
+2. 在Safari中打开对应版本的链接并选择“获取捷径”
 
     如提示`此快捷指令无法打开，因为您的"快捷指令"安全性设置不允许不收信任的快捷指令`，请前往`设置>快捷指令`打开`允许不受信任的快捷指令`
 
@@ -46,6 +48,10 @@
 ## 说明
 
 本快捷指令仅可填报当前时间段的早/晚报，无法补报之前的日期
+
+本快捷指令中早/晚报的分界线为18:00，即在每日18:00以前自动早报、18:00以后自动晚报
+
+有关添加与使用快捷指令的更多帮助，请参阅[快捷指令使用手册](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
 
 ## 免责申明
 
