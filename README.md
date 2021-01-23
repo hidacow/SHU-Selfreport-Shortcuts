@@ -4,9 +4,9 @@
 
 更新时间：20210122
 
- - 在校版：[https://www.icloud.com/shortcuts/7c9bf4e552ea48d18716e04a3ffd202e](https://www.icloud.com/shortcuts/7c9bf4e552ea48d18716e04a3ffd202e)
+ - 在校版：[https://www.icloud.com/shortcuts/5ab973f23d9a4e1a8b8017c3fd9931ea](https://www.icloud.com/shortcuts/5ab973f23d9a4e1a8b8017c3fd9931ea)
 
- - 离校版：[https://www.icloud.com/shortcuts/7ea3905c8f3a43ca854a9a85a1b55d67](https://www.icloud.com/shortcuts/7ea3905c8f3a43ca854a9a85a1b55d67)
+ - 离校版：[https://www.icloud.com/shortcuts/502dfd5b3e8e410fb6ef85876ad73ab5](https://www.icloud.com/shortcuts/502dfd5b3e8e410fb6ef85876ad73ab5)
 
 
 ## 用法
