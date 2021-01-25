@@ -1,12 +1,18 @@
-# SHU每日两报 快捷指令 自动早晚报
+# SHU每日一报/每日两报 快捷指令 自动填报
 
-本快捷指令(Shortcuts)可在iOS, iPadOS, watchOS上实现自动登录并打卡，可配合新版本中“自动化”实现自动早晚报
+本快捷指令(Shortcuts)可在iOS, iPadOS, watchOS上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
 
-更新时间：20210122
+更新时间：20210125（更新寒假每日一报）
 
- - 在校版：[https://www.icloud.com/shortcuts/5ab973f23d9a4e1a8b8017c3fd9931ea](https://www.icloud.com/shortcuts/5ab973f23d9a4e1a8b8017c3fd9931ea)
+ - 每日一报（最新）：
 
- - 离校版：[https://www.icloud.com/shortcuts/502dfd5b3e8e410fb6ef85876ad73ab5](https://www.icloud.com/shortcuts/502dfd5b3e8e410fb6ef85876ad73ab5)
+    离校版：[https://www.icloud.com/shortcuts/e18f8d42c2c743e18f4229c55fbff795](https://www.icloud.com/shortcuts/e18f8d42c2c743e18f4229c55fbff795)
+
+ - 每日两报（停用）：
+  
+    在校版：[https://www.icloud.com/shortcuts/a2692f44efba4f1a9926b89349bdede7](https://www.icloud.com/shortcuts/a2692f44efba4f1a9926b89349bdede7)
+
+    离校版：[https://www.icloud.com/shortcuts/735c4eedab0e430ab4a3b584cb8277da](https://www.icloud.com/shortcuts/735c4eedab0e430ab4a3b584cb8277da)
 
 
 ## 用法
@@ -35,23 +41,27 @@
 
 3. 选择`特定时间`
 
-4. 选择一个早上的时间，如`8:00`；选择重复：`每天`；点击`下一步`
+4. 选择一个时间，如`7:00`；选择重复：`每天`；点击`下一步`
 
 5. 点击`添加操作`，在搜索框中搜索`运行快捷指令`并选择
 
-6. 将参数选择为刚刚添加的`每日两报（在校/离校）`快捷指令；点击`下一步`
+6. 将参数选择为刚刚添加的`每日X报（在校/离校）`快捷指令；点击`下一步`
 
 7. 取消`运行前询问`选项（推荐，实现完全自动填报）；点击`完成`
 
-8. 重复操作添加自动晚报（如选择`20:00`自动运行快捷指令）
+8. 如需早晚报可重复操作添加自动晚报（如选择`20:00`自动运行快捷指令）
 
 ## 说明
 
-本快捷指令仅可填报当前时间段的早/晚报，无法补报之前的日期
+ - 本快捷指令可自定义所在省市县与地址并自动判断是否在上海
 
-本快捷指令中早/晚报的分界线为18:00，即在每日18:00以前自动早报、18:00以后自动晚报
+ - 在填报时默认绿码、无不适、无隔离、未接触中高风险地区、不在校、不住校、明日不返校、在国内，如有特殊情况建议手动填报或自行更改参数
 
-有关添加与使用快捷指令的更多帮助，请参阅[快捷指令使用手册](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
+ - 本快捷指令仅可填报当前时间段的早/晚/日报，无法补报之前的日期，如有需要请自行更改参数
+
+ - 本快捷指令（两报版）中早/晚报的分界线为18:00，即在每日18:00以前自动早报、18:00以后自动晚报
+
+ - 有关添加与使用快捷指令的更多帮助，请参阅[快捷指令使用手册](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
 
 ## 免责申明
 
