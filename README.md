@@ -2,17 +2,17 @@
 
 本快捷指令(Shortcuts)可在iOS, iPadOS, watchOS上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
 
-更新时间：20210125（更新寒假每日一报）
+更新时间：20210126（更新寒假每日一报）
 
  - 每日一报（最新）：
 
-    离校版：[https://www.icloud.com/shortcuts/e18f8d42c2c743e18f4229c55fbff795](https://www.icloud.com/shortcuts/e18f8d42c2c743e18f4229c55fbff795)
+    离校版：[https://www.icloud.com/shortcuts/d2095c0e294b43abb0d3d6991af96953](https://www.icloud.com/shortcuts/d2095c0e294b43abb0d3d6991af96953)
 
  - 每日两报（停用）：
   
-    在校版：[https://www.icloud.com/shortcuts/a2692f44efba4f1a9926b89349bdede7](https://www.icloud.com/shortcuts/a2692f44efba4f1a9926b89349bdede7)
+    在校版：[https://www.icloud.com/shortcuts/a6aa0486047642e1b1334c5ed351396d](https://www.icloud.com/shortcuts/a6aa0486047642e1b1334c5ed351396d)
 
-    离校版：[https://www.icloud.com/shortcuts/735c4eedab0e430ab4a3b584cb8277da](https://www.icloud.com/shortcuts/735c4eedab0e430ab4a3b584cb8277da)
+    离校版：[https://www.icloud.com/shortcuts/bde689006d9048fc9c059d07a0bdbb19](https://www.icloud.com/shortcuts/bde689006d9048fc9c059d07a0bdbb19)
 
 
 ## 用法
@@ -31,7 +31,7 @@
 
 5. 点击运行即可自动填报
 
-    你可能需要在第一次运行时点选同意该快捷指令访问互联网
+    你可能需要在第一次运行时点选同意该快捷指令访问互联网、显示通知
 
 ### 与`自动化`整合
 
