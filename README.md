@@ -2,11 +2,11 @@
 
 本快捷指令(Shortcuts)可在iOS, iPadOS, watchOS上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
 
-更新时间：20210126（更新寒假每日一报）
+更新时间：20210201
 
  - 每日一报（最新）：
 
-    离校版：[https://www.icloud.com/shortcuts/d2095c0e294b43abb0d3d6991af96953](https://www.icloud.com/shortcuts/d2095c0e294b43abb0d3d6991af96953)
+    离校版：[https://www.icloud.com/shortcuts/fee0f49404f24013a26a550c05ccde28](https://www.icloud.com/shortcuts/fee0f49404f24013a26a550c05ccde28)
 
  - 每日两报（停用）：
   
