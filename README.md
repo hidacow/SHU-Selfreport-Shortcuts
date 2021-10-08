@@ -10,13 +10,17 @@
 
 也可以使用以下的链接
 
-- 最新版链接:
+- **最新版**链接:
 
   [https://www.icloud.com/shortcuts/e392252af75641caa5ca98e33c4ad70c](https://www.icloud.com/shortcuts/e392252af75641caa5ca98e33c4ad70c)
 
-- 获取加密密码快捷指令链接
+- **获取加密密码**快捷指令链接
   
   [https://www.icloud.com/shortcuts/94442f1b832a4a47a0fc79577da306e4](https://www.icloud.com/shortcuts/94442f1b832a4a47a0fc79577da306e4)
+
+- **按日期获取当天填报时上传的随申码、行程码图片id**快捷指令链接
+
+  [https://www.icloud.com/shortcuts/c6784e60e0be46ca8585ac2fa02f0b1b](https://www.icloud.com/shortcuts/c6784e60e0be46ca8585ac2fa02f0b1b)
 - 在导入每日一报快捷指令时必须使用**加密后**的密码
 - 新版本导入后可能需要重新设置自动化
 - 老版本每日一报/每日两报已从本页面移除，如确有需要请查看以往 commit
@@ -27,7 +31,11 @@
 
 目前自动提交的健康码、行程码均为空白图片，但可以正常提交，后果未知
 
-有能力的同学可以自行获取图片 id 并修改快捷指令中的参数便可自定义提交图片
+可以通过`获取已上传图片id`快捷指令获取指定日期填报时上传的随申码、行程码图片id
+
+该快捷指令在导入时也需要**加密后**的密码
+
+由于技术限制，目前暂未找到方法发送正确的图片原始数据，故选择本地图片提交健康码、行程码似乎不可实现
 
 **加密密码说明**
 
@@ -130,8 +138,6 @@ MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDl/aCgRl9f/4ON9MewoVnV58OLOU2ALBi2FKc5yIsf
 - 有关添加与使用快捷指令的更多帮助，请参阅[快捷指令使用手册](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
 
 ## TODO
-
-选择本地图片提交健康码、行程码
 
 与 Scriptable 整合以便本地实现加密/更多功能
 
