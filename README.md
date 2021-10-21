@@ -2,7 +2,7 @@
 
 本快捷指令(Shortcuts)可在 iOS, iPadOS, watchOS, MacOS 上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
 
-更新时间：2021.10.08
+更新时间：2021.10.21
 
 **每日一报：**
 
@@ -12,7 +12,7 @@
 
 - **最新版**链接:
 
-  [https://www.icloud.com/shortcuts/e392252af75641caa5ca98e33c4ad70c](https://www.icloud.com/shortcuts/e392252af75641caa5ca98e33c4ad70c)
+  [https://www.icloud.com/shortcuts/fae1c0f9907e4e63a3395236a17d2fc5](https://www.icloud.com/shortcuts/fae1c0f9907e4e63a3395236a17d2fc5)
 
 - **获取加密密码**快捷指令链接
   
