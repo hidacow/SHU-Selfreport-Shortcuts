@@ -2,7 +2,7 @@
 
 本快捷指令(Shortcuts)可在 iOS, iPadOS, watchOS, MacOS 上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
 
-更新时间：2021.11.13
+更新时间：2022.03.20
 
 **每日一报：**
 
@@ -12,28 +12,33 @@
 
 - **最新版**链接:
 
-  [https://www.icloud.com/shortcuts/e0d6fecbee9447c397d56cacae9a9b88](https://www.icloud.com/shortcuts/e0d6fecbee9447c397d56cacae9a9b88)
+  <https://www.icloud.com/shortcuts/fce288b62859415d920a7d4913bd1416>
 
 - **获取加密密码**快捷指令链接
   
-  [https://www.icloud.com/shortcuts/94442f1b832a4a47a0fc79577da306e4](https://www.icloud.com/shortcuts/94442f1b832a4a47a0fc79577da306e4)
+  <https://www.icloud.com/shortcuts/94442f1b832a4a47a0fc79577da306e4>
 
 - **按日期获取当天填报时上传的随申码、行程码图片id**快捷指令链接
 
-  [https://www.icloud.com/shortcuts/c6784e60e0be46ca8585ac2fa02f0b1b](https://www.icloud.com/shortcuts/c6784e60e0be46ca8585ac2fa02f0b1b)
+  <https://www.icloud.com/shortcuts/c6784e60e0be46ca8585ac2fa02f0b1b>
+  
 - 在导入每日一报快捷指令时必须使用**加密后**的密码
+
 - 新版本导入后可能需要重新设置自动化
+
 - 老版本每日一报/每日两报已从本页面移除，如确有需要请查看以往 commit
 
-## **20211107 更新**
+- 目前最新版只支持**在校**，若要提交离校状态请自行修改相关参数
 
-支持单选/多选题自动答题，在通知中显示每日一题内容(beta)
+## **20220320 更新**
+
+修复选择所在校区
 
 **自动答题说明**
 
-本功能目前属于测试阶段
+支持单选/多选题自动答题，在通知中显示每日一题内容
 
-目前该快捷指令会自动尝试获取答案提示中的参考答案，稳定性未知
+目前该快捷指令会自动尝试获取答案提示中的参考答案
 
 若无法获取参考答案，则会随机提交答案
 
@@ -68,7 +73,7 @@
 
 ### **方法 2**
 
-1. 在电脑浏览器中打开[https://selfreport.shu.edu.cn/](https://selfreport.shu.edu.cn/)(或其它需要登录的页面)(若已登录请退出)
+1. 在电脑浏览器中打开<https://selfreport.shu.edu.cn/>(或其它需要登录的页面)(若已登录请退出)
 2. 在统一认证网页中输入用户名，密码
 3. 按 F12 进入`开发者模式`
 4. 切换到`Network`选项卡
@@ -85,7 +90,7 @@
 
 `获取SHU加密密码`快捷指令中将会直接调用该网站的 API（自动化执行如下步骤）
 
-1. 打开[https://www.bejson.com/enc/rsa/](https://www.bejson.com/enc/rsa/)
+1. 打开<https://www.bejson.com/enc/rsa/>
 2. 点击`根据公钥加密文本`选项卡
 3. 在公钥文本框输入以下文本
 
