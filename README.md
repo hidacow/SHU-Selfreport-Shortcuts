@@ -1,6 +1,6 @@
 # SHU 每日一报/每日两报 快捷指令 自动填报
 
-本快捷指令(Shortcuts)可在 iOS, iPadOS, watchOS, MacOS 上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
+本快捷指令(Shortcuts)可在 iOS, iPadOS, watchOS, macOS 上实现自动登录并打卡，可配合新版本中“自动化”实现自动填报
 
 更新时间：2022.07.06
 
