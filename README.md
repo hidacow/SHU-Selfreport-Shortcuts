@@ -14,14 +14,6 @@
 
   <https://www.icloud.com/shortcuts/419846fa555949178c7864e1486af36f>
 
-- **在校版**链接:
-
-  <https://www.icloud.com/shortcuts/dbed756166e24ed4b6a2ab0ac439f7c8>
-  
-- **离校版**链接:
-
-  <https://www.icloud.com/shortcuts/a5c82244bc964798a9146a775865b934>
-
 - **获取加密密码**快捷指令链接
   
   <https://www.icloud.com/shortcuts/94442f1b832a4a47a0fc79577da306e4>
@@ -37,6 +29,10 @@
 - 老版本每日一报/每日两报已从本页面移除，如确有需要请查看以往 commit
 
 - 目前最新版只支持**在校**和**离校（在上海）**，若要提交不在上海状态请自行修改相关参数
+
+## 20220912 更新
+
+- 修复更新字段
 
 ## **20220831 热更新版说明**
 
