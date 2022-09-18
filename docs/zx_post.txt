@@ -167,9 +167,9 @@ Content-Disposition: form-data; name="p1_pnlDangSZS_Collapsed"
 
 false
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
-Content-Disposition: form-data; name="p1_P_GuoNei_pImages_Collapsed"
+Content-Disposition: form-data; name="p1_P_GuoNei_pImages_HFimgXingCM"
 
-false
+cYskH72v3ZA=
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1_P_GuoNei_Collapsed"
 
