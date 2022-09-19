@@ -157,15 +157,15 @@
                 ""
             ],
             [
-                "$qu",
-                "$qu",
+                "$qu$",
+                "$qu$",
                 1,
                 "",
                 ""
             ]
         ],
         "SelectedValueArray": [
-            "-1"
+            "$qu$"
         ],
         "Enabled": true
     },
