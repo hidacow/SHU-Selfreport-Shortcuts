@@ -1,0 +1,193 @@
+{
+    "persinfo_ctl00": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_XiZhi": {
+        "Checked": true
+    },
+    "persinfo_XueGH": {
+        "Text": ""
+    },
+    "persinfo_XingMing": {
+        "Text": ""
+    },
+    "persinfo_XueYBM": {
+        "Text": ""
+    },
+    "persinfo_SuiSMZT": {
+        "Text": "绿色"
+    },
+    "persinfo_P_HeSJC_HeSJCLST": {
+        "F_Items": [
+            [
+                "",
+                "采样时间：20??/??/?? ??:??:??<br/>报告时间：20??/??/?? ??:??:??<br/>检测结果：阴性",
+                1,
+                "",
+                "",
+                "",
+                false
+            ]
+        ]
+    },
+    "persinfo_P_HeSJC_HeSYXSJ": {
+        "Text": "根据当前核酸检测结果，可在2099/12/31 23:59:59前进校"
+    },
+    "persinfo_P_HeSJC": {
+        "Title": "最近的核酸检测情况<br/>（大数据中心同步时间为20??/??/?? ??:??:??）",
+        "IFrameAttributes": {}
+    },
+    "persinfo_SuoZXQ": {
+        "F_Items": [
+            [
+                "宝山校区",
+                "宝山",
+                1
+            ],
+            [
+                "延长校区",
+                "延长",
+                1
+            ],
+            [
+                "嘉定校区",
+                "嘉定",
+                1
+            ],
+            [
+                "新闸路校区",
+                "新闸路",
+                0
+            ]
+        ],
+        "SelectedValue": "$xiaoqu$校区"
+    },
+    "persinfo_HuanCQTip": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_ChuXRQ": {
+        "Readonly": true,
+        "Text": "$riqi$"
+    },
+    "persinfo_YuanYin": {
+        "F_Items": [
+            [
+                "面试",
+                "面试",
+                1
+            ],
+            [
+                "考试",
+                "考试",
+                1
+            ],
+            [
+                "返乡（返家）",
+                "返乡（返家）",
+                1
+            ],
+            [
+                "前往医疗场所",
+                "前往医院",
+                1
+            ],
+            [
+                "其他原因",
+                "其他原因",
+                1
+            ]
+        ],
+        "SelectedValue": "其他原因"
+    },
+    "persinfo_TeSYY_QiTa": {
+        "Hidden": false,
+        "Required": true,
+        "Text": "~"
+    },
+    "persinfo_ddlSheng": {
+        "F_Items": [
+            [
+                "-1",
+                "选择省份",
+                1,
+                "",
+                ""
+            ],
+            [
+                "上海",
+                "上海",
+                1,
+                "",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "上海"
+        ]
+    },
+    "persinfo_ddlShi": {
+        "F_Items": [
+            [
+                "-1",
+                "选择市",
+                1,
+                "",
+                ""
+            ],
+            [
+                "上海市",
+                "上海市",
+                1,
+                "",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "上海市"
+        ],
+        "Enabled": true
+    },
+    "persinfo_ddlXian": {
+        "F_Items": [
+            [
+                "-1",
+                "选择所在区",
+                1,
+                "",
+                ""
+            ],
+            [
+                "$qu",
+                "$qu",
+                1,
+                "",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "-1"
+        ],
+        "Enabled": true
+    },
+    "persinfo_DangTHX": {
+        "F_Items": [
+            [
+                "是",
+                "是",
+                1
+            ],
+            [
+                "否",
+                "否",
+                1
+            ]
+        ],
+        "SelectedValue": null
+    },
+    "persinfo_ctl01_btnSubmit": {
+        "Hidden": false
+    },
+    "persinfo": {
+        "IFrameAttributes": {}
+    }
+}
