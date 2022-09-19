@@ -59,6 +59,10 @@ Content-Disposition: form-data; name="p1$JinChuSQ"
 
 0
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$P_GuoNei$pImages$HFimgXingCM"
+
+cYskH72v3ZA=
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$JiuYe_ShouJHM"
 
 
@@ -186,4 +190,10 @@ false
 Content-Disposition: form-data; name="F_STATE"
 
 $fstate$
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$P_GuoNei$pImages$fileXingCM"; filename=""
+Content-Type: application/octet-stream
+
+
+
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
