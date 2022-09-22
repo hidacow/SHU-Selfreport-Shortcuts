@@ -1,7 +1,4 @@
 {
-    "p1_ChengNuo": {
-        "Checked": true
-    },
     "p1_pnlDangSZS_DangSZS": {
         "F_Items": [],
         "SelectedValueArray": []
@@ -9,10 +6,7 @@
     "p1_pnlDangSZS": {
         "IFrameAttributes": {}
     },
-    "p1_BaoSRQ": {
-        "Text": "$riqi$"
-    },
-    "p1_CengFWSS": {
+    "p1_P_QueZXX_CengQZ": {
         "F_Items": [
             [
                 "是",
@@ -25,7 +19,36 @@
                 1
             ]
         ],
-        "SelectedValue": "否"
+        "SelectedValue": null
+    },
+    "p1_P_QueZXX_QueZD_Sheng": {
+        "F_Items": [],
+        "SelectedValueArray": []
+    },
+    "p1_P_QueZXX_QueZD_Shi": {
+        "F_Items": [],
+        "SelectedValueArray": []
+    },
+    "p1_P_QueZXX": {
+        "IFrameAttributes": {}
+    },
+    "p1_BaoSRQ": {
+        "Text": "$riqi$"
+    },
+    "p1_CengFWSS": {
+        "SelectedValue": "否",
+        "F_Items": [
+            [
+                "是",
+                "是",
+                1
+            ],
+            [
+                "否",
+                "否",
+                1
+            ]
+        ]
     },
     "p1_DangQSTZK": {
         "F_Items": [
@@ -173,10 +196,10 @@
         ]
     },
     "p1_P_GuoNei_pImages_HFimgXingCM": {
-        "Text": "YFry8ABYopqM5oq9LCmE1Q=="
+        "Text": "w5FpfoUyNj7PvqpTtaKWDw=="
     },
     "p1_P_GuoNei_pImages_imgXingCM": {
-        "ImageUrl": "/ShowImage.ashx?squrl=oyhA3XzMDCQkIYcSyVCAVd5gbMaxzd5LKpzBChiuJgSbXZXDlZm%2fXm9%2bqZdnFlJMwSZzeG86SIbXxmKdFSKiwowzKxHjpXuuCIpAhscp8unelrBS%2f2pgZYYy0kIGcfvmGdQjKfoSeeT8E25Er%2b%2fNrwsWK7unevfNOXubn0lDhLKcxcvYiugBw1LWDBPUGiR3"
+        "ImageUrl": "/ShowImage.ashx?squrl=oyhA3XzMDCQkIYcSyVCAVd5gbMaxzd5LKpzBChiuJgSbXZXDlZm%2fXm9%2bqZdnFlJMHgPuk6ieJZ%2fTC07%2fqRgunIijLRfBicGUEVFuxQmIP6%2fMGyQuT%2foSqzYY%2bCu4%2fW%2b3vg2pHJ2HhMgr%2bprNs8dPZHkzr9qe3jKgoyx%2bIlNuWmkqsloKWXoo3E6XkjvEb8%2bM"
     },
     "p1_P_GuoNei_pImages": {
         "Hidden": false,
@@ -291,6 +314,7 @@
         ]
     },
     "p1_ddlXian": {
+        "Hidden": false,
         "Enabled": true,
         "F_Items": [
             [
@@ -310,8 +334,7 @@
         ],
         "SelectedValueArray": [
             "$qu$"
-        ],
-        "Hidden": false
+        ]
     },
     "p1_ddlJieDao": {
         "Hidden": false,
@@ -336,9 +359,9 @@
         ]
     },
     "p1_XiangXDZ": {
-        "Text": "$dizhi$",
         "Hidden": false,
-        "Label": "校内宿舍地址（校区、幢楼、房间）"
+        "Label": "国内详细地址（省市区县无需重复填写）",
+        "Text": "$dizhi$"
     },
     "p1_ShiFZJ": {
         "Required": true,
@@ -358,6 +381,7 @@
         "SelectedValue": null
     },
     "p1_GaoZDFXLJS": {
+        "SelectedValue": "无",
         "F_Items": [
             [
                 "无",
@@ -379,10 +403,10 @@
                 "有低风险地区旅居史",
                 1
             ]
-        ],
-        "SelectedValue": null
+        ]
     },
     "p1_QueZHZJC": {
+        "SelectedValue": "否",
         "F_Items": [
             [
                 "是",
@@ -394,8 +418,7 @@
                 "否",
                 1
             ]
-        ],
-        "SelectedValue": null
+        ]
     },
     "p1_DangRGL": {
         "SelectedValue": "否",
@@ -440,7 +463,7 @@
         "OnClientClick": "document.location.href='/Default.aspx';return;"
     },
     "p1": {
-        "Title": "",
+        "Title": "每日一报",
         "IFrameAttributes": {}
     }
 }

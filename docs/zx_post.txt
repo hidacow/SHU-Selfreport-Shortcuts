@@ -1,9 +1,9 @@
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
-Content-Disposition: form-data; name="__EVENTTARGET"       
+Content-Disposition: form-data; name="__EVENTTARGET"
 
 p1$ctl01$btnSubmit
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
-Content-Disposition: form-data; name="__EVENTARGUMENT"     
+Content-Disposition: form-data; name="__EVENTARGUMENT"
 
 
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
@@ -19,9 +19,33 @@ Content-Disposition: form-data; name="p1$ChengNuo"
 
 p1_ChengNuo
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$P_QueZXX$QueZRQ"
+
+
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$P_QueZXX$QueZD_Sheng"
+
+
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$P_QueZXX$QueZD_Shi"
+
+
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$P_QueZXX$ChuCRQ"
+
+
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$BaoSRQ"
 
 $riqi$
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$CengFWSS"
+
+否
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1$DiHRQ"
+
+
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$DangQSTZK"
 
@@ -51,13 +75,9 @@ Content-Disposition: form-data; name="p1$P_GuoNei$XiaoQu"
 
 $xiaoqu$
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
-Content-Disposition: form-data; name="p1$JinChuSQ"
-
-0
-------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$P_GuoNei$pImages$HFimgXingCM"
 
-YFry8ABYopqM5oq9LCmE1Q==
+w5FpfoUyNj7PvqpTtaKWDw==
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$JiuYe_ShouJHM"
 
@@ -131,17 +151,9 @@ Content-Disposition: form-data; name="p1$ShiFZJ"
 
 否
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
-Content-Disposition: form-data; name="p1$CengFWSS"
-
-否
-------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$GaoZDFXLJS"
 
 无
-------WebKitFormBoundaryvoA5YjMd3Uf0m32z
-Content-Disposition: form-data; name="p1$QueZHZJC$Value"
-
-否
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$QueZHZJC"
 
@@ -167,6 +179,10 @@ Content-Disposition: form-data; name="p1_pnlDangSZS_Collapsed"
 
 false
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="p1_P_QueZXX_Collapsed"
+
+false
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1_P_GuoNei_pImages_Collapsed"
 
 false
@@ -187,8 +203,12 @@ Content-Disposition: form-data; name="F_STATE"
 
 $fstate$
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="X-FineUI-Ajax"
+
+true
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$P_GuoNei$pImages$fileXingCM"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z--
