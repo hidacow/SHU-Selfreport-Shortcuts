@@ -12,7 +12,7 @@
 
 - **最新版**链接(最后更新：2022.10.08):
 
-  <https://www.icloud.com/shortcuts/419846fa555949178c7864e1486af36f>
+  <https://www.icloud.com/shortcuts/c0d5f3ff954d4b9ea2d34bdcb7f5533b>
 
 - **获取加密密码**快捷指令链接
   
@@ -20,7 +20,7 @@
 
 - **上传并获取图片id**快捷指令链接（请勿直接使用，参照文档）
 
-  <https://www.icloud.com/shortcuts/c6784e60e0be46ca8585ac2fa02f0b1b>
+  <https://www.icloud.com/shortcuts/135509fb218a434492b3a30b058fc541>
   
 - 在导入每日一报快捷指令时必须使用**加密后**的密码
 
