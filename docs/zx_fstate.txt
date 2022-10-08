@@ -196,7 +196,7 @@
         ]
     },
     "p1_P_GuoNei_pImages_HFimgXingCM": {
-        "Text": "O5FyiBHrEbrQmdLQ8yhxhg=="
+        "Text": "$XCMid$"
     },
     "p1_P_GuoNei_pImages_imgXingCM": {
         "ImageUrl": "/ShowImage.ashx?squrl="

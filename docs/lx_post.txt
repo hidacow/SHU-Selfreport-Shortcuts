@@ -57,7 +57,7 @@ Content-Disposition: form-data; name="p1$JinChuSQ"
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$P_GuoNei$pImages$HFimgXingCM"
 
-cYskH72v3ZA=
+$XCMid$
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$JiuYe_ShouJHM"
 
@@ -189,7 +189,6 @@ $fstate$
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z
 Content-Disposition: form-data; name="p1$P_GuoNei$pImages$fileXingCM"; filename=""
 Content-Type: application/octet-stream
-
 
 
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z

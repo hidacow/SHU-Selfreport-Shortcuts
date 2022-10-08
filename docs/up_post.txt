@@ -210,5 +210,5 @@ true
 Content-Disposition: form-data; name="p1$P_GuoNei$pImages$fileXingCM"; filename="a.png"
 Content-Type: Content-Type: image/png
 
-PNG
+$PNGFile$
 ------WebKitFormBoundaryvoA5YjMd3Uf0m32z--
