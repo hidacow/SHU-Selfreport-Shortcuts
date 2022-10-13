@@ -10,7 +10,7 @@
 
 也可以使用以下的链接
 
-- **最新版**链接(最后更新：2022.10.08，**请参照的[文档](Tutorial.md)更新**):
+- **最新版**链接(最后更新：2022.10.08，**请参照[文档](Tutorial.md)更新**):
 
   <https://www.icloud.com/shortcuts/c0d5f3ff954d4b9ea2d34bdcb7f5533b>
 
