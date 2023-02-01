@@ -1,0 +1,197 @@
+{
+    "persinfo_ctl00": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_XueGH": {
+        "Text": ""
+    },
+    "persinfo_XingMing": {
+        "Text": ""
+    },
+    "persinfo_XueYBM": {
+        "Text": ""
+    },
+    "persinfo_ChuFRQ": {
+        "Text": "$riqi$"
+    },
+    "persinfo_JinXRQ": {
+        "MaxDate": "2099-12-31T06:04:05+00:00",
+        "MinDate": "2023-02-01T06:04:05+00:00",
+        "Text": "$riqi$"
+    },
+    "persinfo_JinXXQ": {
+        "F_Items": [
+            [
+                "宝山校区",
+                "宝山校区",
+                1
+            ],
+            [
+                "延长校区",
+                "延长校区",
+                1
+            ],
+            [
+                "嘉定校区",
+                "嘉定校区",
+                1
+            ],
+            [
+                "新闸路校区",
+                "新闸路校区",
+                0
+            ]
+        ],
+        "SelectedValue": "$xiaoqu$校区"
+    },
+    "persinfo_PianQu": {
+        "F_Items": [
+            [
+                "$pianqu$",
+                "$pianqu$",
+                1
+            ]
+        ],
+        "SelectedValue": "$pianqu$",
+        "Hidden": false
+    },
+    "persinfo_YuanYin": {
+        "F_Items": [
+            [
+                "日常进出",
+                "日常进出",
+                1
+            ],
+            [
+                "老生返校",
+                "老生返校",
+                1
+            ],
+            [
+                "新生报到",
+                "新生报到",
+                1
+            ],
+            [
+                "其他原因",
+                "其他原因",
+                1
+            ]
+        ],
+        "SelectedValue": "日常进出"
+    },
+    "persinfo_DangTLX": {
+        "F_Items": [
+            [
+                "是",
+                "是",
+                1
+            ],
+            [
+                "否",
+                "否",
+                1
+            ]
+        ],
+        "SelectedValue": "否"
+    },
+    "persinfo_P_ChuFD_DangQSZD_Sheng": {
+        "F_Items": [
+            [
+                "-1",
+                "选择省份",
+                1,
+                "",
+                ""
+            ],
+            [
+                "上海",
+                "上海",
+                1,
+                "",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "上海"
+        ]
+    },
+    "persinfo_P_ChuFD_DangQSZD_Shi": {
+        "Enabled": true,
+        "F_Items": [
+            [
+                "-1",
+                "选择市",
+                1,
+                "",
+                ""
+            ],
+            [
+                "上海市",
+                "上海市",
+                1,
+                "",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "上海市"
+        ]
+    },
+    "persinfo_P_ChuFD_DangQSZD_Xian": {
+        "F_Items": [
+            [
+                "-1",
+                "选择所在区",
+                1,
+                "",
+                ""
+            ],
+            [
+                "$qu$",
+                "$qu$",
+                1,
+                "",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "$qu$"
+        ],
+        "Enabled": true
+    },
+    "persinfo_P_ChuFD_DangQSZD_JieDao": {
+        "F_Items": [
+            [
+                "-1",
+                "选择街道",
+                1,
+                "",
+                ""
+            ],
+            [
+                "$jiedao$",
+                "$jiedao$",
+                1,
+                "$jiedao$",
+                ""
+            ]
+        ],
+        "SelectedValueArray": [
+            "$jiedao$"
+        ],
+        "Hidden": false
+    },
+    "persinfo_P_ChuFD": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_XiaoNeiTip": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_ctl01_btnSubmit": {
+        "Hidden": false
+    },
+    "persinfo": {
+        "IFrameAttributes": {}
+    }
+}
