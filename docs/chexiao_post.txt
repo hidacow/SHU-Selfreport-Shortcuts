@@ -1,0 +1,40 @@
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="__EVENTTARGET"
+
+persinfo$ctl01$btnDelete
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="__EVENTARGUMENT"
+
+
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="__VIEWSTATE"
+
+$viewstate$
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="__VIEWSTATEGENERATOR"
+
+9E883F99
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="persinfo$YuanYin_QiTa"
+
+
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="F_TARGET"
+
+persinfo_ctl01_btnDelete
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="persinfo_ctl00_Collapsed"
+
+false
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="persinfo_P_ChuFD_Collapsed"
+
+false
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="persinfo_Collapsed"
+
+false
+------WebKitFormBoundaryvoA5YjMd3Uf0m32z
+Content-Disposition: form-data; name="F_STATE"
+
+$fstate$

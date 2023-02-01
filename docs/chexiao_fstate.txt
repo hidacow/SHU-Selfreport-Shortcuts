@@ -1,0 +1,51 @@
+{
+    "persinfo_ctl00": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_XueGH": {
+        "Text": ""
+    },
+    "persinfo_XingMing": {
+        "Text": ""
+    },
+    "persinfo_XueYBM": {
+        "Text": ""
+    },
+    "persinfo_DangQZT": {
+        "Text": "审核完成"
+    },
+    "persinfo_JinXRQ": {
+        "Text": "$riqi$"
+    },
+    "persinfo_JinXXQ": {
+        "Text": ""
+    },
+    "persinfo_P_ChuFD_DangQSZD_Sheng": {
+        "Text": "上海"
+    },
+    "persinfo_P_ChuFD_DangQSZD_Shi": {
+        "Text": "上海市"
+    },
+    "persinfo_P_ChuFD_DangQSZD_Xian": {
+        "Text": ""
+    },
+    "persinfo_P_ChuFD_DangQSZD_JieDao": {
+        "Hidden": false,
+        "Text": ""
+    },
+    "persinfo_P_ChuFD_DangQSZD_XiangXDZ": {
+        "Text": ""
+    },
+    "persinfo_P_ChuFD": {
+        "IFrameAttributes": {}
+    },
+    "persinfo_YuanYin": {
+        "Text": ""
+    },
+    "persinfo_DangTLX": {
+        "Text": ""
+    },
+    "persinfo": {
+        "IFrameAttributes": {}
+    }
+}
